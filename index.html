@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#101827">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Turnier">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="app-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <title>Matchday – Fußballturnier</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="function.js" defer></script>
+</head>
+<body>
+  <header class="topbar"><div class="brand"><img class="brand-logo" src="icon.png" alt="Matchday"><span>matchday</span></div><div id="statusPill" class="status-pill">Bereit</div></header>
+  <main class="app-shell">
+    <section id="setup" class="panel setup-panel"></section>
+    <section id="playersPanel" class="panel hidden"></section>
+    <section id="tournamentPanel" class="hidden"></section>
+  </main>
+  <template id="emptyState"><div class="empty"><span>⚽</span><p>Noch keine Spiele vorhanden.</p></div></template>
+</body>
+</html>

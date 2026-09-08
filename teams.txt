@@ -1,0 +1,413 @@
+# Teamlisten für den FIFA-Modus
+# Eine Kategorie beginnt mit [Name]. Jede weitere Zeile ist ein auswählbares Team.
+
+[1. Bundesliga]
+FC Bayern München
+Bayer 04 Leverkusen
+Borussia Dortmund
+RB Leipzig
+VfB Stuttgart
+Eintracht Frankfurt
+SC Freiburg
+TSG Hoffenheim
+1. FSV Mainz 05
+Werder Bremen
+VfL Wolfsburg
+FC Augsburg
+Borussia Mönchengladbach
+1. FC Union Berlin
+FC St. Pauli
+Holstein Kiel
+VfL Bochum
+1. FC Heidenheim
+
+# Weitere europäische Ligen einschließlich zweiter und dritter Spielklasse.
+[2. Bundesliga]
+1. FC Köln
+Hamburger SV
+Hertha BSC
+FC Schalke 04
+Fortuna Düsseldorf
+Hannover 96
+Karlsruher SC
+1. FC Kaiserslautern
+1. FC Nürnberg
+SC Paderborn 07
+SpVgg Greuther Fürth
+SV Elversberg
+Eintracht Braunschweig
+Preußen Münster
+SSV Ulm 1846
+SV Darmstadt 98
+1. FC Magdeburg
+DSC Arminia Bielefeld
+
+[3. Liga]
+TSV 1860 München
+Dynamo Dresden
+Hansa Rostock
+Rot-Weiss Essen
+VfL Osnabrück
+SV Waldhof Mannheim
+Erzgebirge Aue
+FC Ingolstadt 04
+Viktoria Köln
+SC Verl
+Wehen Wiesbaden
+Borussia Dortmund II
+VfB Stuttgart II
+Hannover 96 II
+Arminia Bielefeld
+Energie Cottbus
+SpVgg Unterhaching
+1. FC Saarbrücken
+
+[Premier League]
+Manchester City
+Arsenal
+Liverpool
+Chelsea
+Manchester United
+Tottenham Hotspur
+Newcastle United
+Aston Villa
+Brighton & Hove Albion
+West Ham United
+Crystal Palace
+Everton
+Wolverhampton Wanderers
+Fulham
+Brentford
+Nottingham Forest
+Leicester City
+Leeds United
+Burnley
+Southampton
+
+[EFL Championship]
+Sheffield United
+Norwich City
+West Bromwich Albion
+Middlesbrough
+Coventry City
+Hull City
+Sunderland
+Stoke City
+Blackburn Rovers
+Watford
+Preston North End
+Bristol City
+Swansea City
+Cardiff City
+Millwall
+Queens Park Rangers
+Derby County
+Portsmouth
+Plymouth Argyle
+Luton Town
+Ipswich Town
+Oxford United
+Sheffield Wednesday
+Rotherham United
+
+[EFL League One]
+Birmingham City
+Bolton Wanderers
+Barnsley
+Blackpool
+Charlton Athletic
+Huddersfield Town
+Leyton Orient
+Lincoln City
+Mansfield Town
+Peterborough United
+Reading
+Rotherham United
+Stockport County
+Wigan Athletic
+Wycombe Wanderers
+Wrexham
+Cambridge United
+Burton Albion
+Exeter City
+Northampton Town
+Shrewsbury Town
+Stevenage
+Crawley Town
+Bristol Rovers
+
+[LaLiga]
+Real Madrid
+FC Barcelona
+Atlético Madrid
+Athletic Club
+Real Sociedad
+Villarreal CF
+Real Betis
+Sevilla FC
+Valencia CF
+Girona FC
+Rayo Vallecano
+CA Osasuna
+Getafe CF
+RC Celta
+RCD Mallorca
+UD Las Palmas
+Deportivo Alavés
+RCD Espanyol
+Real Valladolid
+CD Leganés
+
+[LaLiga Hypermotion]
+Real Zaragoza
+Sporting Gijón
+Real Oviedo
+Racing Santander
+Granada CF
+Málaga CF
+Cádiz CF
+Levante UD
+UD Almería
+SD Eibar
+Burgos CF
+CD Tenerife
+CD Mirandés
+Albacete Balompié
+Elche CF
+Huesca
+FC Cartagena
+Racing Ferrol
+CD Eldense
+Córdoba CF
+Deportivo La Coruña
+Castellón
+
+[Serie A]
+Inter Mailand
+AC Mailand
+Juventus
+SSC Napoli
+AS Rom
+Lazio Rom
+Atalanta Bergamo
+ACF Fiorentina
+Bologna FC
+Torino FC
+Genoa CFC
+Udinese Calcio
+Hellas Verona
+US Lecce
+Cagliari Calcio
+Empoli FC
+Monza
+Parma Calcio
+Como 1907
+Venezia FC
+
+[Serie B]
+Sampdoria Genua
+Palermo FC
+Bari
+Spezia Calcio
+Pisa SC
+Modena FC
+Catanzaro
+Cesena FC
+Frosinone Calcio
+Salernitana
+Reggiana
+Mantova 1911
+Brescia Calcio
+Südtirol
+Cittadella
+Carrarese
+Cosenza Calcio
+US Cremonese
+SS Juve Stabia
+FC Südtirol
+
+[Ligue 1]
+Paris Saint-Germain
+Olympique Marseille
+AS Monaco
+Olympique Lyon
+LOSC Lille
+OGC Nizza
+Stade Rennais
+RC Lens
+Stade Brestois
+RC Strasbourg
+FC Nantes
+Stade de Reims
+Montpellier HSC
+Toulouse FC
+AJ Auxerre
+Le Havre AC
+AS Saint-Étienne
+Angers SCO
+
+[Ligue 2]
+FC Metz
+Girondins de Bordeaux
+SM Caen
+EA Guingamp
+SC Bastia
+Clermont Foot
+Grenoble Foot 38
+Pau FC
+AC Ajaccio
+Amiens SC
+Paris FC
+Stade Lavallois
+FC Lorient
+USL Dunkerque
+Red Star FC
+Rodez AF
+Annecy FC
+Troyes AC
+
+[Eredivisie]
+AFC Ajax
+PSV Eindhoven
+Feyenoord Rotterdam
+AZ Alkmaar
+FC Twente
+FC Utrecht
+Vitesse Arnhem
+sc Heerenveen
+FC Groningen
+NEC Nijmegen
+Sparta Rotterdam
+PEC Zwolle
+Willem II
+NAC Breda
+RKC Waalwijk
+Fortuna Sittard
+Heracles Almelo
+Almere City FC
+
+[Liga Portugal]
+SL Benfica
+FC Porto
+Sporting CP
+SC Braga
+Vitória SC
+Boavista FC
+FC Famalicão
+Moreirense FC
+Casa Pia AC
+Estoril Praia
+Rio Ave FC
+FC Arouca
+Gil Vicente FC
+CD Nacional
+Farense
+Santa Clara
+AVS Futebol SAD
+Estrela da Amadora
+
+[Scottish Premiership]
+Celtic FC
+Rangers FC
+Heart of Midlothian
+Hibernian FC
+Aberdeen FC
+Dundee United
+Dundee FC
+Kilmarnock FC
+Motherwell FC
+St. Mirren
+Ross County
+St. Johnstone
+
+[Swiss Super League]
+BSC Young Boys
+FC Basel 1893
+FC Zürich
+Servette FC
+FC Lugano
+FC St. Gallen
+Grasshopper Club Zürich
+FC Luzern
+Lausanne-Sport
+Yverdon-Sport
+FC Winterthur
+FC Sion
+
+[Österreichische Bundesliga]
+Red Bull Salzburg
+SK Sturm Graz
+Rapid Wien
+Austria Wien
+LASK Linz
+Wolfsberger AC
+TSV Hartberg
+SCR Altach
+WSG Tirol
+Blau-Weiß Linz
+Grazer AK
+Austria Klagenfurt
+
+# EA FC 26 enthält alle vier englischen EFL-Spielklassen.
+[EFL League Two]
+Accrington Stanley
+AFC Wimbledon
+Barrow
+Bradford City
+Bromley
+Carlisle United
+Cheltenham Town
+Chesterfield
+Colchester United
+Crewe Alexandra
+Doncaster Rovers
+Fleetwood Town
+Gillingham
+Grimsby Town
+Harrogate Town
+Milton Keynes Dons
+Morecambe
+Newport County
+Notts County
+Port Vale
+Salford City
+Swindon Town
+Tranmere Rovers
+Walsall
+
+[Rest der Welt]
+AEK
+Al Ain FC
+APOEL Nicosia FC
+Atlético Nacional
+Bahia
+Buriram United
+Dinamo Zagreb
+Dynamo Kyiv
+Ferencvárosi TC
+Hajduk Split
+HJK Helsinki
+MLS All Stars
+Olympiacos
+Panathinaikos
+PAOK
+Qarabağ FK
+Shakhtar Donetsk
+Slavia Praha
+Sparta Praha
+Viktoria Plzeň
+
+[Classic Teams]
+Bayern München Historic
+Bundesliga Historic
+Chelsea Historic
+Classic XI
+Juventus Historic
+La Liga Historic
+Ligue 1 Historic
+Liverpool Historic
+Premier League Historic
+Real Madrid Historic
+Serie A Historic
+Soccer Aid
+Zlatan FC
