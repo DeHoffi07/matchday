@@ -1,6 +1,131 @@
 # Teamlisten für den FIFA-Modus
 # Eine Kategorie beginnt mit [Name]. Jede weitere Zeile ist ein auswählbares Team.
 
+[International]
+Argentinien
+Australien
+Österreich
+Belgien
+Bosnien-Herzegowina
+Brasilien
+Kap Verde
+Kanada
+Kolumbien
+Kongo DR
+Kroatien
+Tschechische Republik
+Dänemark
+Ecuador
+England
+Finnland
+Frankreich
+Deutschland
+Ghana
+Haiti
+Niederlande
+Ungarn
+Island
+Indonesien
+Italien
+Elfenbeinküste
+Republik Korea
+Mexiko
+Marokko
+Neuseeland
+Nordirland
+Norwegen
+Panama
+Paraguay
+Polen
+Portugal
+Katar
+Irland
+Rumänien
+Saudi-Arabien
+Schottland
+Senegal
+Südafrika
+Spanien
+Schweden
+Schweiz
+Tunesien
+Türkei
+Ukraine
+USA
+Uruguay
+Usbekistan
+Wales
+
+[WM 2026 Top 10]
+Spanien
+Argentinien
+England
+Frankreich
+Deutschland
+Portugal
+Brasilien
+Niederlande
+Marokko
+Belgien
+
+[Top 20 Champions League]
+Paris Saint-Germain
+Real Madrid
+FC Bayern München
+FC Barcelona
+Liverpool FC
+Manchester City
+Arsenal FC
+Inter Mailand
+Atletico Madrid
+Borussia Dortmund
+SSC Neapel
+RB Leipzig
+Manchester United
+Villarreal
+PSV Eindhoven
+FC Porto
+Sporting CP
+AS Rom
+Galatasaray
+VFB Stuttgart
+
+[Champions League Top 10 25/26]
+Paris Saint-Germain
+FC Arsenal
+FC Bayern München
+Atlético Madrid
+FC Barcelona
+Real Madrid
+Liverpool FC
+Sporting CP
+Manchester City
+Chelsea FC
+
+[UEFA Europa League Top 10 25/26]
+Aston Villa
+SC Freiburg
+Nottingham Forest
+SC Braga
+Real Betis
+Bologna FC
+FC Porto
+Celta Vigo
+VfB Stuttgart
+Olympique Lyon
+
+[DFB POKAL 25/26]
+FC Bayern München
+VfB Stuttgart
+Bayer 04 Leverkusen
+RB Leipzig
+SC Freiburg
+1. FC Union Berlin
+Borussia Dortmund
+1. FC Köln
+Eintracht Frankfurt
+1. FSV Mainz 05
+
 [1. Bundesliga]
 FC Bayern München
 Bayer 04 Leverkusen
